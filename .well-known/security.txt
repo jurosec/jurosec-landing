@@ -1,0 +1,4 @@
+Contact: mailto:security@jurosec.com
+Encryption: https://jurosec.com/pgp-key.txt
+Preferred-Languages: en
+Canonical: https://jurosec.com/.well-known/security.txt
